@@ -1,0 +1,12 @@
+---
+
+---
+[
+{% for page in site.pages %}
+  {
+    "githubHandle" : "{{ page.githubHandle }}",
+    "url" :  "{{ page.pageUrl }}",
+    "timestamp" : "{{ page.timestamp }}"
+  }{% if forloop.last == false %},{% endif %}
+{% endfor %}
+]
