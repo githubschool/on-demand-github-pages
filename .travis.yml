@@ -3,8 +3,9 @@ rvm:
 - 2.1
 sudo: false
 before_script:
-  - npm install -g jsonlint
   - pip install --user yamllint
+  - pip install --user yamale
 script:
   - yamllint _pages/*
+  - python testyamale.py
   - bundle exec jekyll build
