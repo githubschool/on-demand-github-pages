@@ -6,7 +6,5 @@ before_script:
   - npm install -g jsonlint
   - pip install --user yamllint
 script:
-  - yamllint _pins/*
-  - yamllint  _pages/*
-#  - bundle exec rake yamllint --trace
+  - yamllint _pages/*
   - bundle exec jekyll build
