@@ -1,0 +1,12 @@
+language: ruby
+rvm:
+- 2.1
+sudo: false
+before_script:
+  - npm install -g jsonlint
+  - pip install --user yamllint
+script:
+  - yamllint _pins/*
+  - yamllint  _pages/*
+#  - bundle exec rake yamllint --trace
+  - bundle exec jekyll build
