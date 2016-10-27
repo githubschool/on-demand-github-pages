@@ -1,0 +1,13 @@
+language: ruby
+rvm:
+- 2.1
+sudo: false
+before_script:
+  - pip install --user yamllint
+  - pip install --user yamale
+script:
+  - yamllint _pages/*
+  - ruby tests/test_filesRootDirectory.rb
+  - ruby tests/test_fileEndingsPins.rb
+  - python testyamale.py
+  - bundle exec jekyll build
