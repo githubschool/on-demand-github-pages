@@ -1,13 +1,13 @@
 require 'test/unit'
 require "yaml"
 
-class TestCoordinateValidation < Test::Unit::TestCase
+class TestHTMLValidation < Test::Unit::TestCase
 
-  def test_coordinatevalidation
+  def test_htmlvalidation
     Dir["./_pages/*.yaml"].each do |path|
       f = YAML.load_file(path)
       [
-        f["url"],
+        f["pageUrl"],
       ].each do |s|
         assert_not_nil(s.to_s[/([A-Za-z0-9]+\.github.io)/], path)
       end
