@@ -8,5 +8,6 @@ before_script:
 script:
   - yamllint _pages/*
   - ruby tests/test_filesRootDirectory.rb
+  - ruby tests/test_htmlValidation.rb
   - ruby tests/test_fileEndingsPins.rb
   - bundle exec jekyll build
