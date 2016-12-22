@@ -8,7 +8,7 @@ before_script:
   - gem install html-proofer
 script:
   - yamllint _pages/*
-  - htmlproofer --extension .html.erb ./_pages
   - ruby tests/test_filesRootDirectory.rb
   - ruby tests/test_fileEndingsPins.rb
   - bundle exec jekyll build
+  - bundle exec htmlproofer ./_site
