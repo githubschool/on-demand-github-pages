@@ -7,7 +7,7 @@ before_script:
   - pip install --user yamale
   - gem install html-proofer
 script:
-#  - yamllint _pages/*
+  - yamllint _pages/*
   - ruby tests/test_filesRootDirectory.rb
   - ruby tests/test_fileEndingsPins.rb
   - ruby tests/test_HTML.rb
