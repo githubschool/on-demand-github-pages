@@ -11,4 +11,5 @@ script:
   - ruby tests/test_filesRootDirectory.rb
   - ruby tests/test_fileEndingsPins.rb
   - ruby tests/test_HTML.rb
+  - ruby tests/htmlValidation.rb
   - bundle exec jekyll build
