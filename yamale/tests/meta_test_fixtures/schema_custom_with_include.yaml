@@ -1,7 +1,0 @@
-test_includes: list(include('test_include'))
-
----
-test_include:
-  custom: card()
-  string: str()
-  number: num(required=False)
