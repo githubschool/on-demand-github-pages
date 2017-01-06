@@ -1,9 +1,237 @@
 [
 
   {
+    "githubHandle" : "3xj",
+    "url" :  "3xj.github.io",
+    "timestamp" : "2016-12-08"
+  },
+
+  {
+    "githubHandle" : "Ji3m",
+    "url" :  "Ji3m.github.io",
+    "timestamp" : "2016-12-19"
+  },
+
+  {
+    "githubHandle" : "Mor8",
+    "url" :  "Mor8.github.io",
+    "timestamp" : "2016-12-05"
+  },
+
+  {
+    "githubHandle" : "RikPrinsenberg",
+    "url" :  "RikPrinsenberg.github.io",
+    "timestamp" : "2016-11-03"
+  },
+
+  {
+    "githubHandle" : "Spectre503",
+    "url" :  "Spectre503.github.io",
+    "timestamp" : "2016-12-06"
+  },
+
+  {
+    "githubHandle" : "VanceCarey",
+    "url" :  "https://VanceCarey.github.io",
+    "timestamp" : "2016-12-8"
+  },
+
+  {
+    "githubHandle" : "VanceCarey2",
+    "url" :  "VanceCarey.github.io",
+    "timestamp" : "2016-12-08"
+  },
+
+  {
+    "githubHandle" : "",
+    "url" :  "amitkumarsi.github.io",
+    "timestamp" : "2016-11-04"
+  },
+
+  {
+    "githubHandle" : "aronlindhagen",
+    "url" :  "aronlindhagen.github.io",
+    "timestamp" : "2016-12-08"
+  },
+
+  {
+    "githubHandle" : "bjs007",
+    "url" :  "https://bjs007.github.io/",
+    "timestamp" : "2016-12-17"
+  },
+
+  {
+    "githubHandle" : "brianamarie",
+    "url" :  "https://brianamarie.github.io/github-games/",
+    "timestamp" : "2016-12-27"
+  },
+
+  {
+    "githubHandle" : "carolynshin",
+    "url" :  "http://carolynshin.github.io/",
+    "timestamp" : "2016-11-01"
+  },
+
+  {
+    "githubHandle" : "dmlib",
+    "url" :  "https://dmlib.github.io/",
+    "timestamp" : "2016-12-08"
+  },
+
+  {
+    "githubHandle" : "Eutherio",
+    "url" :  "eutherio.github.io",
+    "timestamp" : "2016-12-14"
+  },
+
+  {
+    "githubHandle" : "ftheile",
+    "url" :  "ftheile.github.io",
+    "timestamp" : "2016-12-19"
+  },
+
+  {
+    "githubHandle" : "Gaimps",
+    "url" :  "https://gaimps.github.io/",
+    "timestamp" : "2016-10-31"
+  },
+
+  {
+    "githubHandle" : "githubstudent",
+    "url" :  "githubstudent.github.io",
+    "timestamp" : "2016-10-18"
+  },
+
+  {
     "githubHandle" : "hectorsector",
     "url" :  "hectorsector.github.io",
-    "timestamp" : "2016-09-28"
+    "timestamp" : "2016-10-17"
+  },
+
+  {
+    "githubHandle" : "hex7cd",
+    "url" :  "hex7cd.github.io",
+    "timestamp" : "2016-11-02"
+  },
+
+  {
+    "githubHandle" : "himyfairy",
+    "url" :  "himyfairy.github.io",
+    "timestamp" : "2016-11-10"
+  },
+
+  {
+    "githubHandle" : "ignotas",
+    "url" :  "ignotas.github.io",
+    "timestamp" : "2016-11-12"
+  },
+
+  {
+    "githubHandle" : "JKrag",
+    "url" :  "jkrag.github.io",
+    "timestamp" : "2016-12-07"
+  },
+
+  {
+    "githubHandle" : "john-nascimento",
+    "url" :  "johnnascimento.github.io/portfolio",
+    "timestamp" : "2016-12-23"
+  },
+
+  {
+    "githubHandle" : "john-schneider",
+    "url" :  "john-schneider.github.io",
+    "timestamp" : "2016-12-03"
+  },
+
+  {
+    "githubHandle" : "jramirez0",
+    "url" :  "https://jramirez0.github.io/aprendiendoGitHub/",
+    "timestamp" : "2016-12-21"
+  },
+
+  {
+    "githubHandle" : "leiguoyang",
+    "url" :  "leiguoyang.github.io",
+    "timestamp" : "2016-12-15"
+  },
+
+  {
+    "githubHandle" : "liemdoan",
+    "url" :  "liemdoan.github.io",
+    "timestamp" : "2016-11-12"
+  },
+
+  {
+    "githubHandle" : "M-Meister",
+    "url" :  "m-meister.github.io/divergent.github.io/",
+    "timestamp" : "2016-12-27"
+  },
+
+  {
+    "githubHandle" : "michaelchristianson-securian",
+    "url" :  "michaelchristianson-securian.github.io",
+    "timestamp" : "2016-12-06"
+  },
+
+  {
+    "githubHandle" : "milan08239",
+    "url" :  "https://milan08239.github.io",
+    "timestamp" : "2016-12-09"
+  },
+
+  {
+    "githubHandle" : "nelruk",
+    "url" :  "https://nelruk.github.io/",
+    "timestamp" : "2016-12-20"
+  },
+
+  {
+    "githubHandle" : "nitishkumaram",
+    "url" :  "nitishkumaram.github.io",
+    "timestamp" : "2016-12-22"
+  },
+
+  {
+    "githubHandle" : "oolleegg55",
+    "url" :  "https://oolleegg55.github.io",
+    "timestamp" : "2016-12-15"
+  },
+
+  {
+    "githubHandle" : "pruthiviraj71",
+    "url" :  "https://pruthiviraj71.github.io",
+    "timestamp" : "2016-12-25"
+  },
+
+  {
+    "githubHandle" : "psywah",
+    "url" :  "psywah.github.io",
+    "timestamp" : "2016-12-21"
+  },
+
+  {
+    "githubHandle" : "rayjames",
+    "url" :  "rayjames.github.io",
+    "timestamp" : "2016-12-06"
+  },
+
+  {
+    "githubHandle" : "sbs205c5",
+    "url" :  "sbs205c5.github.io",
+    "timestamp" : "2016-12-06"
+  },
+
+  {
+    "githubHandle" : "SorenDalsgaard",
+    "url" :  "sorendalsgaard.github.io/mowgli.github.io",
+    "timestamp" : "2016-12-08"
+  },
+
+  {
+    "githubHandle" : "tnelsen",
+    "url" :  "tnelsen.github.io",
+    "timestamp" : "2016-12-14"
   }
 
 ]
