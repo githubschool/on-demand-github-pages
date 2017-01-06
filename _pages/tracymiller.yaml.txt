@@ -1,5 +1,0 @@
----
-githubHandle: tracymiller-usfs
-pageUrl: tracymiller-usfs.github.io  
-timestamp: 2017-01-05
----
