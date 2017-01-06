@@ -1,0 +1,3 @@
+githubHandle: str()
+pageUrl: str()
+timestamp: day()
