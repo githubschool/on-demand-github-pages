@@ -9,7 +9,7 @@ class TestHTMLValidation < Test::Unit::TestCase
       [
         f["pageUrl"],
       ].each do |s|
-        assert_not_nil(s.to_s[/([A-Za-z0-9]+\.github.io)/], path)
+        assert_not_nil(s.to_s[/^(?!.*(http))/], path)
       end
     end
 
