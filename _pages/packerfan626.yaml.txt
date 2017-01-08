@@ -1,5 +1,5 @@
 ---
 githubHandle: packerfan626
 pageUrl: https://packerfan626.github.io/
-timestamp: 2017-1-8
+timestamp: 2017-1-08
 ---
