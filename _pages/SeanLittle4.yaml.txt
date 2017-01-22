@@ -1,0 +1,7 @@
+---
+
+gitHubHandle: SeanLittle4
+websiteURL: SeanLittle4.github.io
+timestamp: 1/22/2017
+
+---
