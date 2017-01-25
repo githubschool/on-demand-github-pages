@@ -88,4 +88,6 @@ ENV/
 
 # Rope project settings
 .ropeproject
-_pages/ZoeWard15891.yaml.txt
+
+# Built Jekyll site
+_site/*
