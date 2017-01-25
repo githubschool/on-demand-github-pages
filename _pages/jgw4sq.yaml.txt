@@ -1,0 +1,5 @@
+ ---
+ githubHandle: jgw4sq
+ pageUrl: YOUR-USERNAME.github.io
+ timestamp: TODAYS-DATE-YYYY-MM-DD
+ ---
