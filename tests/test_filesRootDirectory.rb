@@ -3,7 +3,7 @@ require 'test/unit'
 class TestDirectoryContents < Test::Unit::TestCase
 
   def test_no_other_files_root
-    correct_files = [
+    correct_files = [".bundle",
      ".git",
      ".gitignore",
      ".travis.yml",
@@ -17,6 +17,7 @@ class TestDirectoryContents < Test::Unit::TestCase
      "schema.yaml",
      "tests",
      "testyamale.py",
+     "vendor",
      "yamale"]
     correct_files_sorted = correct_files.sort
     actual_files = []
