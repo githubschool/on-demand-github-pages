@@ -88,3 +88,9 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# Built Jekyll site
+_site/*
+
+# OS-specific files
+.DS_Store
