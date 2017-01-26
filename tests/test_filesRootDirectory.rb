@@ -13,7 +13,6 @@ class TestDirectoryContents < Test::Unit::TestCase
      "_config.yml",
      "_layouts",
      "_pages",
-     "_site",
      "createDirectory.json",
      "schema.yaml",
      "tests",
