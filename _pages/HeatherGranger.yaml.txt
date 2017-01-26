@@ -1,7 +1,0 @@
----
-
-githubHandle: HeatherGranger
-pageUrl: https://heathergranger.github.io/ 
-timestamp: 2017-01-23
-
----
