@@ -91,3 +91,6 @@ ENV/
 
 # Built Jekyll site
 _site/*
+
+# OS-specific files
+.DS_Store
