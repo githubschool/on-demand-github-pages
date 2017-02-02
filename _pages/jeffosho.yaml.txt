@@ -1,5 +1,0 @@
----
-githubHandle: jeffosho
-pageUrl: jeffosho.github.io
-timestamp: 2017-01-09
----\n
