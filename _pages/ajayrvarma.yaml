@@ -1,8 +1,5 @@
-
-wing content into your file:
-
- ---
-  githubHandle: YOUR-USERNAME
-   pageUrl: YOUR-USERNAME.github.io
-    timestamp: TODAYS-DATE-YYYY-MM-DD
-     ---
+---
+	githubHandle: ajayrvarma
+	pageUrl: ajayrvarma.github.io
+	timestamp: 2017-05-30
+---
