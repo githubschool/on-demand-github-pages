@@ -1,0 +1,8 @@
+
+wing content into your file:
+
+ ---
+  githubHandle: YOUR-USERNAME
+   pageUrl: YOUR-USERNAME.github.io
+    timestamp: TODAYS-DATE-YYYY-MM-DD
+     ---
