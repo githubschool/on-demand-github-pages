@@ -5,6 +5,7 @@ class TestDirectoryContents < Test::Unit::TestCase
   def test_no_other_files_root
     correct_files = [".bundle",
      ".git",
+     ".github",
      ".gitignore",
      ".travis.yml",
      ".yamllint",
