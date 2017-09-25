@@ -1,5 +1,6 @@
 ---
 githubHandle: Telmoco
-pageUrl: Telmoco.github.io
+pageUrl: telmoco.github.io
 timestamp: 2017-09-24
 ---
+
