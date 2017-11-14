@@ -1,5 +1,5 @@
 ---
 githubHandle: seabass189
-pageUrl: seabass189.github.io
+pageUrl: https://github.com/seabass189/my-repo
 timestamp: 2017-11-13
 ---
