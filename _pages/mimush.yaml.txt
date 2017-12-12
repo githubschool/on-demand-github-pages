@@ -1,5 +1,0 @@
----
-githubHandle: Mimush
-pageUrl: mimush.github.io
-timestamp: 2017-12-12
----
