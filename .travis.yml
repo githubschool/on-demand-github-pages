@@ -8,8 +8,6 @@ before_script:
   - gem install html-proofer
 script:
   - yamllint _pages/*
-  - ruby tests/test_filesRootDirectory.rb
-  - ruby tests/test_fileEndingsPins.rb
   - ruby tests/test_date.rb
   - ruby tests/test_HTML.rb
   - ruby tests/test_htmlValidation.rb
