@@ -9,7 +9,7 @@ checkPath:
   path: "_pages"
   detailsURL: "https://vimeo.com/201011288"
   success: "Your file is in the proper path."
-  failure: "Your file is not in the _pins directory. Click details for instructions on how to fix."
+  failure: "Your file is not in the _pages directory. Click details for instructions on how to fix."
 checkExtension:
   name: "File extension"
   extension: "yaml"
