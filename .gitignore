@@ -94,3 +94,4 @@ _site/*
 
 # OS-specific files
 .DS_Store
+*.yml
