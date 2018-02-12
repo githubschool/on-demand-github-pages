@@ -1,7 +1,5 @@
- ---
- githubHandle: Techdemo
- pageUrl: Techdemo.github.io
- timestamp: 2018-02-12
- ---
- 
- Added the github handle username, url and timestamp
+---
+githubHandle: Techdemo
+pageUrl: Techdemo.github.io
+timestamp: 2018-02-12
+---
