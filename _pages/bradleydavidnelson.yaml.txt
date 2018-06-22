@@ -1,5 +1,0 @@
----
-githubHandle: bradleydavidnelson
-pageUrl: bradleydavidnelson.github.io
-timestamp: 2018-6-22
----
