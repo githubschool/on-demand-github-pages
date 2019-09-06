@@ -1,3 +1,0 @@
-custom: card()
-string: str()
-number: num(required=False)
